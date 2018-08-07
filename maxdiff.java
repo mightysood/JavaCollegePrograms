@@ -1,7 +1,7 @@
 import java.io.*;
 /* constraints--
 a[i]-a[j] such that i<j
-using O(n) time and o(1) time complexity
+using O(n) time and o(1) space complexity
 */
 class maxdiff{
 	public static void main(String[] args) throws IOException
